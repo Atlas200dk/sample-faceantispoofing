@@ -282,7 +282,7 @@ class WebApp:
             if st == 1:
                 msg = 'Please open your mouse, keep face in camera'
             if st == 2:
-                msg = 'please raise your head, keep face in camera'
+                msg = 'please look up, keep face in camera'
             if st == 3 and ans == 1:
                 msg = 'Detection success!'
             if st == 3 and ans == -1: 
